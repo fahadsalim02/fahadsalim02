@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a>
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning java
 - 💬 Ask me about cryptos
